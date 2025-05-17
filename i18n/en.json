@@ -1,0 +1,27 @@
+{
+  "app": {
+    "title": "My App",
+    "description": "This is a sample application."
+  },
+  "navbar": {
+    "name": "Hernán Marrapodi",
+    "about": "About Me",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "Hi! I'm Hernán Marrapodi",
+    "description": "I am a software developer with a passion for creating Web and Mobile applications.\nI have experience in a variety of technologies including Java, JavaScript, Spring, Angular and React.\nI enjoy learning and researching the nitty-gritty details about how things are coded or implemented."
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Here are some of my projects."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Feel free to reach out to me."
+  },
+  "footer": {
+    "text": "© 2025 Hernán Marrapodi"
+  }
+}
