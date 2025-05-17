@@ -3,6 +3,7 @@ import { provideRouter } from '@angular/router';
 
 import { routes } from './app.routes';
 import { provideTranslateService } from '@ngx-translate/core';
+import { provideClientHydration, withEventReplay } from '@angular/platform-browser';
 
 export const appConfig: ApplicationConfig = {
   providers: [
@@ -10,6 +11,6 @@ export const appConfig: ApplicationConfig = {
     provideRouter(routes),
     provideTranslateService({
       defaultLanguage: 'en',
-    }),
+    }), provideClientHydration(withEventReplay()),
   ],
 };
