@@ -14,14 +14,30 @@
     "description": "I am a software developer with a passion for creating Web and Mobile applications.\nI have experience in a variety of technologies including Java, JavaScript, Spring, Angular and React.\nI enjoy learning and researching the nitty-gritty details about how things are coded or implemented."
   },
   "projects": {
-    "title": "Projects",
-    "description": "Here are some of my projects."
+    "title": "My Professional Projects",
+    "wise": {
+      "title": "Wise Capital",
+      "description": "Developed a CRM module and expanded the base features of Wise Capital's internal web app. I'm currently leading the development of a Cross-platform Mobile App and a complete revamp of their client website to match the App's new developments. "
+    },
+    "netegia": {
+      "title": "Netegia",
+      "description": "Worked on several feature revamps for an ERP, including changing product's sizes and colors system into a proper variant system. I also single-handedly developed a CRM module that integrates with the system's existing client database. "
+    },
+    "adrogue": {
+      "title": "Adrogué Bus / FonoBus",
+      "description": "Worked on several bugfixes for an internal admin system. I also adapted and deployed the iOS version of a React Native App. "
+    }
   },
   "contact": {
-    "title": "Contact",
-    "description": "Feel free to reach out to me."
+    "title": "Contact Me!",
+    "description": "I'm always open to new job offers, so whether you want to hire me or just want to chat, feel free to find me on LinkedIn, GitHub or just send me an email! ",
+    "resume": {
+      "pre-link": "You can also",
+      "link": "download my resume",
+      "post-link": " if you'd like any more details about my carreer :)"
+    }
   },
   "footer": {
-    "text": "© 2025 Hernán Marrapodi"
+    "text": "Hernán Marrapodi © 2025 - All rights reserved (What rights, I wonder?) "
   }
 }
