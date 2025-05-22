@@ -14,14 +14,30 @@
     "description": "Soy un desarrollador de software apasionado por crear aplicaciones Web y Móviles.\nTengo experiencia en una variedad de tecnologías incluyendo Java, JavaScript, Spring, Angular y React.\nDisfruto aprender e investigar con lujo de detalle cómo las cosas son codificadas o implementadas."
   },
   "projects": {
-    "title": "Proyectos",
-    "description": "Aquí están algunos de mis proyectos."
+    "title": "Mis Proyectos Profesionales",
+    "wise": {
+      "title": "Wise Capital",
+      "description": "Desarrollé un módulo de CRM y amplié las features base de la aplicación web interna de Wise Capital. Actualmente estoy liderando el desarrollo de una App móvil multiplataforma y una renovación completa de su sitio web de clientes para que coincida con los nuevos desarrollos de la App. "
+    },
+    "netegia": {
+      "title": "Netegia",
+      "description": "Trabajé en varias renovaciones de características para un ERP, incluyendo el cambio del sistema de talles y colores de productos a un sistema de variaciones. También desarrollé un módulo CRM que se integra con la base de datos de clientes del sistema."
+    },
+    "adrogue": {
+      "title": "Adrogué Bus / FonoBus",
+      "description": "Realicé varios bugfixes para un sistema de administración interno. También adapté y desplegué la versión iOS de una App hecha con React Native."
+    }
   },
   "contact": {
-    "title": "Contacto",
-    "description": "No dudes en ponerte en contacto conmigo."
+    "title": "Contactame!",
+    "description": "Siempre estoy abierto a nuevas ofertas laborales, así que si querés contratarme o simplemente charlar, no dudes en buscarme en LinkedIn, GitHub o simplemente enviame un email! ",
+    "resume": {
+      "pre-link": "También podés",
+      "link": "descargar mi CV",
+      "post-link": " si querés saber más detalles sobre mi carrera profesional :)"
+    }
   },
   "footer": {
-    "text": "© 2025 Hernán Marrapodi"
+    "text": "Hernán Marrapodi © 2025 - Todos los derechos reservados (Qué derechos serán, no?) "
   }
 }

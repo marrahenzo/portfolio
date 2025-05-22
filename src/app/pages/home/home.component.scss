@@ -1,0 +1,37 @@
+.rainbow {
+  display: inline-block;
+  font-weight: bold;
+  background-size: 300% 100%;
+  animation: rainbow 1s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    color: #ff0000;
+    font-size: 1em;
+  }
+  18% {
+    color: #ff7f00;
+    font-size: 1.05em;
+  }
+  36% {
+    color: #ffff00;
+    font-size: 1.09em;
+  }
+  54% {
+    color: #00ff00;
+    font-size: 1.15em;
+  }
+  72% {
+    color: #0000ff;
+    font-size: 1.09em;
+  }
+  90% {
+    color: #4b0082;
+    font-size: 1.05em;
+  }
+  100% {
+    color: #9400d3;
+    font-size: 1em;
+  }
+}
